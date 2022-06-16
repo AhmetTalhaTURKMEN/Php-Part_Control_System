@@ -15,7 +15,7 @@ Download this file
 Run xampp and connect to  http://localhost/phpmyadmin/
 
 ## Step 3-)
-Open database.sql and copy all its text 
+Open database.sql and copy all text 
 
 Paste to sql in phpmyadmin
 
