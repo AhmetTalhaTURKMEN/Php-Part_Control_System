@@ -2,6 +2,8 @@
 
 This project is for keeping vehicle parts in database
 
+It has an interface to make the operation easy.
+
 If you want to try on localhost , your pc must have xampp 
 
 To try on localhost do:
@@ -10,15 +12,16 @@ To try on localhost do:
 Download this file
 
 ## Step 2-)
-Run to xampp and connect to  http://localhost/phpmyadmin/
+Run xampp and connect to  http://localhost/phpmyadmin/
 
 ## Step 3-)
 Open database.sql and copy all its text 
 
 Paste to sql in phpmyadmin
 
-Click to "Go"
 ![Screenshot_3](https://user-images.githubusercontent.com/75725469/174101352-cc0671fa-8ced-4120-9626-7e0337fbef3f.png)
+
+Click "Go"
 
 ## Step 4-)
 Send part_control_system to xampp>htdocs
