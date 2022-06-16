@@ -9,3 +9,6 @@ To try on localhost do:
 ## Step 1)
 
 DEVELOPER: AhmetTalhaTURKMEN
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
