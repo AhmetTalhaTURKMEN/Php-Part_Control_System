@@ -6,6 +6,6 @@ You can try on localhost
 
 To try on localhost do:
 
-# Step 1)
+## Step 1)
 
 DEVELOPER: AhmetTalhaTURKMEN
