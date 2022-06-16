@@ -22,6 +22,7 @@ Click to "Go"
 
 ## Step 4-)
 Send part_control_system to xampp>htdocs
+
 and click http://localhost/part_control_system
 
 DEVELOPER: AhmetTalhaTURKMEN
