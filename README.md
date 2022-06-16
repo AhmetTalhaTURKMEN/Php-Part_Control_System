@@ -2,7 +2,7 @@
 
 This project is for keeping vehicle parts in database
 
-You can try on localhost
+If you want to try on localhost, your pc must have xampp 
 
 To try on localhost do:
 
