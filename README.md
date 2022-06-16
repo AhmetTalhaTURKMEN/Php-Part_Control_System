@@ -17,11 +17,12 @@ Open database.sql and copy all its text
 
 Paste to sql in phpmyadmin
 
-and click to "Go"
+Click to "Go"
 ![Screenshot_3](https://user-images.githubusercontent.com/75725469/174101352-cc0671fa-8ced-4120-9626-7e0337fbef3f.png)
 
 ## Step 4-)
-
+Send part_control_system to xampp>htdocs
+and click http://localhost/part_control_system
 
 DEVELOPER: AhmetTalhaTURKMEN
 
