@@ -6,8 +6,7 @@ If you want to try on localhost , your pc must have xampp
 
 To try on localhost do:
 
-## Step 1) 
-Run 
+## Step 1) #######Run 
 
 DEVELOPER: AhmetTalhaTURKMEN
 
