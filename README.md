@@ -22,6 +22,8 @@ Paste to sql in phpmyadmin
 ![Screenshot_3](https://user-images.githubusercontent.com/75725469/174101352-cc0671fa-8ced-4120-9626-7e0337fbef3f.png)
 
 Click "Go"
+![Screenshot_4](https://user-images.githubusercontent.com/75725469/174109549-09c27d68-2187-4137-8e16-ad18be734c17.png)
+
 
 ## Step 4-)
 Send part_control_system to xampp>htdocs
