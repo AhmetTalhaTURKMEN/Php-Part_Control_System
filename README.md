@@ -26,7 +26,7 @@ Click "Go"
 
 
 ## Step 4-)
-Send part_control_system to xampp>htdocs
+Send part_control_system file to xampp>htdocs
 
 and click http://localhost/part_control_system
 
